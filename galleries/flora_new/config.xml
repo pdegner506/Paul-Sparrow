@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="100"
+	thumbHeight="100"
+	useLargeImages="true"
+	captionPosition="NONE"
+	galleryTitle="- FLOWERS &amp; FLORA - "
+	galleryTitleHAlign="CENTER"
+	enableLooping="true"
+	captionHAlign="CENTER"
+	galleryTitlePosition="TOP"
+	importTitle="NONE"
+	emailAddress="psparrow@cogeco.ca"
+	showEmailButton="true"
+	importCaption="FILENAME"
+	useFullscreenExpand="true"
+	useWatermark="true"
+	watermarkPath="C:\Users\user\Documents\Documents\Burlington Photo Workshops\Elements_Photoshop\8 - Type\Paul Sparrow.png"
+	buttonBarPosition="TOP"
+
+>
+  <image imageURL="images/Flora_001.jpg"
+	thumbURL="thumbs/Flora_001.jpg"
+	linkURL="images/large/Flora_001.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_001.jpg"
+	largeImageURL="images/large/Flora_001.jpg">
+    <title><![CDATA[Flora_001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_002.jpg"
+	thumbURL="thumbs/Flora_002.jpg"
+	linkURL="images/large/Flora_002.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_002.jpg"
+	largeImageURL="images/large/Flora_002.jpg">
+    <title><![CDATA[Flora_002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_003.jpg"
+	thumbURL="thumbs/Flora_003.jpg"
+	linkURL="images/large/Flora_003.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_003.jpg"
+	largeImageURL="images/large/Flora_003.jpg">
+    <title><![CDATA[Flora_003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_043.jpg"
+	thumbURL="thumbs/Flora_043.jpg"
+	linkURL="images/large/Flora_043.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_043.jpg"
+	largeImageURL="images/large/Flora_043.jpg">
+    <title><![CDATA[Flora_043]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_044.jpg"
+	thumbURL="thumbs/Flora_044.jpg"
+	linkURL="images/large/Flora_044.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_044.jpg"
+	largeImageURL="images/large/Flora_044.jpg">
+    <title><![CDATA[Flora_044]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_004.jpg"
+	thumbURL="thumbs/Flora_004.jpg"
+	linkURL="images/large/Flora_004.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_004.jpg"
+	largeImageURL="images/large/Flora_004.jpg">
+    <title><![CDATA[Flora_004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_042.jpg"
+	thumbURL="thumbs/Flora_042.jpg"
+	linkURL="images/large/Flora_042.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_042.jpg"
+	largeImageURL="images/large/Flora_042.jpg">
+    <title><![CDATA[Flora_042]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_005.jpg"
+	thumbURL="thumbs/Flora_005.jpg"
+	linkURL="images/large/Flora_005.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_005.jpg"
+	largeImageURL="images/large/Flora_005.jpg">
+    <title><![CDATA[Flora_005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_006.jpg"
+	thumbURL="thumbs/Flora_006.jpg"
+	linkURL="images/large/Flora_006.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_006.jpg"
+	largeImageURL="images/large/Flora_006.jpg">
+    <title><![CDATA[Flora_006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_008.jpg"
+	thumbURL="thumbs/Flora_008.jpg"
+	linkURL="images/large/Flora_008.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_008.jpg"
+	largeImageURL="images/large/Flora_008.jpg">
+    <title><![CDATA[Flora_008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_009.jpg"
+	thumbURL="thumbs/Flora_009.jpg"
+	linkURL="images/large/Flora_009.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_009.jpg"
+	largeImageURL="images/large/Flora_009.jpg">
+    <title><![CDATA[Flora_009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_010.jpg"
+	thumbURL="thumbs/Flora_010.jpg"
+	linkURL="images/large/Flora_010.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_010.jpg"
+	largeImageURL="images/large/Flora_010.jpg">
+    <title><![CDATA[Flora_010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_011.jpg"
+	thumbURL="thumbs/Flora_011.jpg"
+	linkURL="images/large/Flora_011.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_011.jpg"
+	largeImageURL="images/large/Flora_011.jpg">
+    <title><![CDATA[Flora_011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_012.jpg"
+	thumbURL="thumbs/Flora_012.jpg"
+	linkURL="images/large/Flora_012.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_012.jpg"
+	largeImageURL="images/large/Flora_012.jpg">
+    <title><![CDATA[Flora_012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_013.jpg"
+	thumbURL="thumbs/Flora_013.jpg"
+	linkURL="images/large/Flora_013.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_013.jpg"
+	largeImageURL="images/large/Flora_013.jpg">
+    <title><![CDATA[Flora_013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_014.jpg"
+	thumbURL="thumbs/Flora_014.jpg"
+	linkURL="images/large/Flora_014.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_014.jpg"
+	largeImageURL="images/large/Flora_014.jpg">
+    <title><![CDATA[Flora_014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_015.jpg"
+	thumbURL="thumbs/Flora_015.jpg"
+	linkURL="images/large/Flora_015.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_015.jpg"
+	largeImageURL="images/large/Flora_015.jpg">
+    <title><![CDATA[Flora_015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_016.jpg"
+	thumbURL="thumbs/Flora_016.jpg"
+	linkURL="images/large/Flora_016.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_016.jpg"
+	largeImageURL="images/large/Flora_016.jpg">
+    <title><![CDATA[Flora_016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_017.jpg"
+	thumbURL="thumbs/Flora_017.jpg"
+	linkURL="images/large/Flora_017.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_017.jpg"
+	largeImageURL="images/large/Flora_017.jpg">
+    <title><![CDATA[Flora_017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_018.jpg"
+	thumbURL="thumbs/Flora_018.jpg"
+	linkURL="images/large/Flora_018.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_018.jpg"
+	largeImageURL="images/large/Flora_018.jpg">
+    <title><![CDATA[Flora_018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_019.jpg"
+	thumbURL="thumbs/Flora_019.jpg"
+	linkURL="images/large/Flora_019.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_019.jpg"
+	largeImageURL="images/large/Flora_019.jpg">
+    <title><![CDATA[Flora_019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_020.jpg"
+	thumbURL="thumbs/Flora_020.jpg"
+	linkURL="images/large/Flora_020.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_020.jpg"
+	largeImageURL="images/large/Flora_020.jpg">
+    <title><![CDATA[Flora_020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_023.jpg"
+	thumbURL="thumbs/Flora_023.jpg"
+	linkURL="images/large/Flora_023.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_023.jpg"
+	largeImageURL="images/large/Flora_023.jpg">
+    <title><![CDATA[Flora_023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_024.jpg"
+	thumbURL="thumbs/Flora_024.jpg"
+	linkURL="images/large/Flora_024.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_024.jpg"
+	largeImageURL="images/large/Flora_024.jpg">
+    <title><![CDATA[Flora_024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_027.jpg"
+	thumbURL="thumbs/Flora_027.jpg"
+	linkURL="images/large/Flora_027.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_027.jpg"
+	largeImageURL="images/large/Flora_027.jpg">
+    <title><![CDATA[Flora_027]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_029.jpg"
+	thumbURL="thumbs/Flora_029.jpg"
+	linkURL="images/large/Flora_029.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_029.jpg"
+	largeImageURL="images/large/Flora_029.jpg">
+    <title><![CDATA[Flora_029]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_030.jpg"
+	thumbURL="thumbs/Flora_030.jpg"
+	linkURL="images/large/Flora_030.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_030.jpg"
+	largeImageURL="images/large/Flora_030.jpg">
+    <title><![CDATA[Flora_030]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_032.jpg"
+	thumbURL="thumbs/Flora_032.jpg"
+	linkURL="images/large/Flora_032.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_032.jpg"
+	largeImageURL="images/large/Flora_032.jpg">
+    <title><![CDATA[Flora_032]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_033.jpg"
+	thumbURL="thumbs/Flora_033.jpg"
+	linkURL="images/large/Flora_033.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_033.jpg"
+	largeImageURL="images/large/Flora_033.jpg">
+    <title><![CDATA[Flora_033]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_034.jpg"
+	thumbURL="thumbs/Flora_034.jpg"
+	linkURL="images/large/Flora_034.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_034.jpg"
+	largeImageURL="images/large/Flora_034.jpg">
+    <title><![CDATA[Flora_034]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Spring_066.jpg"
+	thumbURL="thumbs/Spring_066.jpg"
+	linkURL="images/large/Spring_066.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Spring_066.jpg"
+	largeImageURL="images/large/Spring_066.jpg">
+    <title><![CDATA[Spring_066]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Spring_067.jpg"
+	thumbURL="thumbs/Spring_067.jpg"
+	linkURL="images/large/Spring_067.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Spring_067.jpg"
+	largeImageURL="images/large/Spring_067.jpg">
+    <title><![CDATA[Spring_067]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_035.jpg"
+	thumbURL="thumbs/Flora_035.jpg"
+	linkURL="images/large/Flora_035.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_035.jpg"
+	largeImageURL="images/large/Flora_035.jpg">
+    <title><![CDATA[Flora_035]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_035b.jpg"
+	thumbURL="thumbs/Flora_035b.jpg"
+	linkURL="images/large/Flora_035b.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_035b.jpg"
+	largeImageURL="images/large/Flora_035b.jpg">
+    <title><![CDATA[Flora_035b]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_036.jpg"
+	thumbURL="thumbs/Flora_036.jpg"
+	linkURL="images/large/Flora_036.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_036.jpg"
+	largeImageURL="images/large/Flora_036.jpg">
+    <title><![CDATA[Flora_036]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_038.jpg"
+	thumbURL="thumbs/Flora_038.jpg"
+	linkURL="images/large/Flora_038.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_038.jpg"
+	largeImageURL="images/large/Flora_038.jpg">
+    <title><![CDATA[Flora_038]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_039.jpg"
+	thumbURL="thumbs/Flora_039.jpg"
+	linkURL="images/large/Flora_039.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_039.jpg"
+	largeImageURL="images/large/Flora_039.jpg">
+    <title><![CDATA[Flora_039]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_040.jpg"
+	thumbURL="thumbs/Flora_040.jpg"
+	linkURL="images/large/Flora_040.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_040.jpg"
+	largeImageURL="images/large/Flora_040.jpg">
+    <title><![CDATA[Flora_040]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flora_041.jpg"
+	thumbURL="thumbs/Flora_041.jpg"
+	linkURL="images/large/Flora_041.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Flora\Flora_041.jpg"
+	largeImageURL="images/large/Flora_041.jpg">
+    <title><![CDATA[Flora_041]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

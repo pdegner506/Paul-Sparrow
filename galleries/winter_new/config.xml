@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="100"
+	thumbHeight="100"
+	useLargeImages="true"
+	captionPosition="NONE"
+	galleryTitle="- WINTER - "
+	galleryTitleHAlign="CENTER"
+	enableLooping="true"
+	captionHAlign="CENTER"
+	galleryTitlePosition="TOP"
+	importTitle="NONE"
+	emailAddress="psparrow@cogeco.ca"
+	showEmailButton="true"
+	importCaption="FILENAME"
+	useFullscreenExpand="true"
+	useWatermark="true"
+	watermarkPath="C:\Users\user\Documents\Documents\Burlington Photo Workshops\Elements_Photoshop\8 - Type\Paul Sparrow.png"
+	buttonBarPosition="TOP"
+
+>
+  <image imageURL="images/1-January.jpg"
+	thumbURL="thumbs/1-January.jpg"
+	linkURL="images/large/1-January.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\1-January.jpg"
+	largeImageURL="images/large/1-January.jpg">
+    <title><![CDATA[1-January]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2-February.jpg"
+	thumbURL="thumbs/2-February.jpg"
+	linkURL="images/large/2-February.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\2-February.jpg"
+	largeImageURL="images/large/2-February.jpg">
+    <title><![CDATA[2-February]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12-December.jpg"
+	thumbURL="thumbs/12-December.jpg"
+	linkURL="images/large/12-December.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\12-December.jpg"
+	largeImageURL="images/large/12-December.jpg">
+    <title><![CDATA[12-December]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0039.jpg"
+	thumbURL="thumbs/IMG_0039.jpg"
+	linkURL="images/large/IMG_0039.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\IMG_0039.jpg"
+	largeImageURL="images/large/IMG_0039.jpg">
+    <title><![CDATA[IMG_0039]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter__060_sharpened.jpg"
+	thumbURL="thumbs/Winter__060_sharpened.jpg"
+	linkURL="images/large/Winter__060_sharpened.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter__060_sharpened.jpg"
+	largeImageURL="images/large/Winter__060_sharpened.jpg">
+    <title><![CDATA[Winter__060_sharpened]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter__061_sharpened.jpg"
+	thumbURL="thumbs/Winter__061_sharpened.jpg"
+	linkURL="images/large/Winter__061_sharpened.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter__061_sharpened.jpg"
+	largeImageURL="images/large/Winter__061_sharpened.jpg">
+    <title><![CDATA[Winter__061_sharpened]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_002.jpg"
+	thumbURL="thumbs/Winter_002.jpg"
+	linkURL="images/large/Winter_002.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_002.jpg"
+	largeImageURL="images/large/Winter_002.jpg">
+    <title><![CDATA[Winter_002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_003.jpg"
+	thumbURL="thumbs/Winter_003.jpg"
+	linkURL="images/large/Winter_003.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_003.jpg"
+	largeImageURL="images/large/Winter_003.jpg">
+    <title><![CDATA[Winter_003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_004.jpg"
+	thumbURL="thumbs/Winter_004.jpg"
+	linkURL="images/large/Winter_004.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_004.jpg"
+	largeImageURL="images/large/Winter_004.jpg">
+    <title><![CDATA[Winter_004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_008.jpg"
+	thumbURL="thumbs/Winter_008.jpg"
+	linkURL="images/large/Winter_008.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_008.jpg"
+	largeImageURL="images/large/Winter_008.jpg">
+    <title><![CDATA[Winter_008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_009.jpg"
+	thumbURL="thumbs/Winter_009.jpg"
+	linkURL="images/large/Winter_009.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_009.jpg"
+	largeImageURL="images/large/Winter_009.jpg">
+    <title><![CDATA[Winter_009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_013.jpg"
+	thumbURL="thumbs/Winter_013.jpg"
+	linkURL="images/large/Winter_013.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_013.jpg"
+	largeImageURL="images/large/Winter_013.jpg">
+    <title><![CDATA[Winter_013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_015.jpg"
+	thumbURL="thumbs/Winter_015.jpg"
+	linkURL="images/large/Winter_015.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_015.jpg"
+	largeImageURL="images/large/Winter_015.jpg">
+    <title><![CDATA[Winter_015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_017.jpg"
+	thumbURL="thumbs/Winter_017.jpg"
+	linkURL="images/large/Winter_017.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_017.jpg"
+	largeImageURL="images/large/Winter_017.jpg">
+    <title><![CDATA[Winter_017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_022.jpg"
+	thumbURL="thumbs/Winter_022.jpg"
+	linkURL="images/large/Winter_022.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_022.jpg"
+	largeImageURL="images/large/Winter_022.jpg">
+    <title><![CDATA[Winter_022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_023.jpg"
+	thumbURL="thumbs/Winter_023.jpg"
+	linkURL="images/large/Winter_023.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_023.jpg"
+	largeImageURL="images/large/Winter_023.jpg">
+    <title><![CDATA[Winter_023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_024.jpg"
+	thumbURL="thumbs/Winter_024.jpg"
+	linkURL="images/large/Winter_024.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_024.jpg"
+	largeImageURL="images/large/Winter_024.jpg">
+    <title><![CDATA[Winter_024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_028b.jpg"
+	thumbURL="thumbs/Winter_028b.jpg"
+	linkURL="images/large/Winter_028b.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_028b.jpg"
+	largeImageURL="images/large/Winter_028b.jpg">
+    <title><![CDATA[Winter_028b]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_029.jpg"
+	thumbURL="thumbs/Winter_029.jpg"
+	linkURL="images/large/Winter_029.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_029.jpg"
+	largeImageURL="images/large/Winter_029.jpg">
+    <title><![CDATA[Winter_029]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_030.jpg"
+	thumbURL="thumbs/Winter_030.jpg"
+	linkURL="images/large/Winter_030.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_030.jpg"
+	largeImageURL="images/large/Winter_030.jpg">
+    <title><![CDATA[Winter_030]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_031.jpg"
+	thumbURL="thumbs/Winter_031.jpg"
+	linkURL="images/large/Winter_031.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_031.jpg"
+	largeImageURL="images/large/Winter_031.jpg">
+    <title><![CDATA[Winter_031]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_032.jpg"
+	thumbURL="thumbs/Winter_032.jpg"
+	linkURL="images/large/Winter_032.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_032.jpg"
+	largeImageURL="images/large/Winter_032.jpg">
+    <title><![CDATA[Winter_032]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_033.jpg"
+	thumbURL="thumbs/Winter_033.jpg"
+	linkURL="images/large/Winter_033.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_033.jpg"
+	largeImageURL="images/large/Winter_033.jpg">
+    <title><![CDATA[Winter_033]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_034.jpg"
+	thumbURL="thumbs/Winter_034.jpg"
+	linkURL="images/large/Winter_034.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_034.jpg"
+	largeImageURL="images/large/Winter_034.jpg">
+    <title><![CDATA[Winter_034]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_035.jpg"
+	thumbURL="thumbs/Winter_035.jpg"
+	linkURL="images/large/Winter_035.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_035.jpg"
+	largeImageURL="images/large/Winter_035.jpg">
+    <title><![CDATA[Winter_035]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_046.jpg"
+	thumbURL="thumbs/Winter_046.jpg"
+	linkURL="images/large/Winter_046.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_046.jpg"
+	largeImageURL="images/large/Winter_046.jpg">
+    <title><![CDATA[Winter_046]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_047.jpg"
+	thumbURL="thumbs/Winter_047.jpg"
+	linkURL="images/large/Winter_047.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_047.jpg"
+	largeImageURL="images/large/Winter_047.jpg">
+    <title><![CDATA[Winter_047]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winter_048.jpg"
+	thumbURL="thumbs/Winter_048.jpg"
+	linkURL="images/large/Winter_048.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Winter\Winter_048.jpg"
+	largeImageURL="images/large/Winter_048.jpg">
+    <title><![CDATA[Winter_048]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

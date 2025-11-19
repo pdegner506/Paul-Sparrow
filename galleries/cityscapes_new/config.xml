@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="100"
+	thumbHeight="100"
+	useLargeImages="true"
+	captionPosition="NONE"
+	galleryTitle="- CITYSCAPES &amp; ARCHITECTURE - "
+	galleryTitleHAlign="CENTER"
+	enableLooping="true"
+	captionHAlign="CENTER"
+	galleryTitlePosition="TOP"
+	importTitle="NONE"
+	emailAddress="psparrow@cogeco.ca"
+	showEmailButton="true"
+	importCaption="FILENAME"
+	useFullscreenExpand="true"
+	useWatermark="true"
+	watermarkPath="C:\Users\user\Documents\Documents\Burlington Photo Workshops\Elements_Photoshop\8 - Type\Paul Sparrow.png"
+	buttonBarPosition="TOP"
+
+>
+  <image imageURL="images/Architecture &amp; Cityscapes_000b.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_000b.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_000b.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Architecture &amp; Cityscapes_000b.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_000b.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Architecture & Cityscapes_000b]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_001.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_001.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_001.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_001.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_001.jpg">
+    <title><![CDATA[Architecture & Cityscapes_001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_002.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_002.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_002.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_002.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_002.jpg">
+    <title><![CDATA[Architecture & Cityscapes_002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_003.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_003.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_003.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_003.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_003.jpg">
+    <title><![CDATA[Architecture & Cityscapes_003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_004.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_004.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_004.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_004.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_004.jpg">
+    <title><![CDATA[Architecture & Cityscapes_004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_005.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_005.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_005.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_005.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_005.jpg">
+    <title><![CDATA[Architecture & Cityscapes_005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beautiful Blue.jpg"
+	thumbURL="thumbs/Beautiful Blue.jpg"
+	linkURL="images/large/Beautiful Blue.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Beautiful Blue.jpg"
+	largeImageURL="images/large/Beautiful Blue.jpg">
+    <title><![CDATA[Beautiful Blue]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_006.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_006.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_006.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_006.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_006.jpg">
+    <title><![CDATA[Architecture & Cityscapes_006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_007.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_007.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_007.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_007.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_007.jpg">
+    <title><![CDATA[Architecture & Cityscapes_007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_008.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_008.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_008.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_008.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_008.jpg">
+    <title><![CDATA[Architecture & Cityscapes_008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_010.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_010.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_010.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_010.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_010.jpg">
+    <title><![CDATA[Architecture & Cityscapes_010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_011.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_011.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_011.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_011.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_011.jpg">
+    <title><![CDATA[Architecture & Cityscapes_011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_012.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_012.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_012.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_012.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_012.jpg">
+    <title><![CDATA[Architecture & Cityscapes_012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_012b.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_012b.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_012b.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_012b.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_012b.jpg">
+    <title><![CDATA[Architecture & Cityscapes_012b]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_013.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_013.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_013.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_013.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_013.jpg">
+    <title><![CDATA[Architecture & Cityscapes_013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_014.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_014.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_014.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_014.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_014.jpg">
+    <title><![CDATA[Architecture & Cityscapes_014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_015.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_015.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_015.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_015.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_015.jpg">
+    <title><![CDATA[Architecture & Cityscapes_015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_017.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_017.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_017.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_017.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_017.jpg">
+    <title><![CDATA[Architecture & Cityscapes_017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_018.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_018.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_018.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_018.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_018.jpg">
+    <title><![CDATA[Architecture & Cityscapes_018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Architecture &amp; Cityscapes_019.jpg"
+	thumbURL="thumbs/Architecture &amp; Cityscapes_019.jpg"
+	linkURL="images/large/Architecture &amp; Cityscapes_019.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Cityscapes\Architecture &amp; Cityscapes_019.jpg"
+	largeImageURL="images/large/Architecture &amp; Cityscapes_019.jpg">
+    <title><![CDATA[Architecture & Cityscapes_019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

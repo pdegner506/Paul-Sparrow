@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="100"
+	thumbHeight="100"
+	useLargeImages="true"
+	captionPosition="NONE"
+	galleryTitle="- AUTUMN - "
+	galleryTitleHAlign="CENTER"
+	enableLooping="true"
+	captionHAlign="CENTER"
+	galleryTitlePosition="TOP"
+	backButtonPosition="NONE"
+	showSmallBackButton="false"
+	importTitle="NONE"
+	emailAddress="psparrow@cogeco.ca"
+	showEmailButton="true"
+	importCaption="FILENAME"
+	useFullscreenExpand="true"
+	useWatermark="true"
+	watermarkPath="C:\Users\user\Documents\Documents\Burlington Photo Workshops\Elements_Photoshop\8 - Type\Paul Sparrow.png"
+	buttonBarPosition="TOP"
+	backButtonHAlign="LEFT"
+	watermarkHAlign="RIGHT"
+
+>
+  <image imageURL="images/Autumn_001.jpg"
+	thumbURL="thumbs/Autumn_001.jpg"
+	linkURL="images/large/Autumn_001.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_001.jpg"
+	largeImageURL="images/large/Autumn_001.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_001]]></caption>
+  </image>
+  <image imageURL="images/Autumn_002.jpg"
+	thumbURL="thumbs/Autumn_002.jpg"
+	linkURL="images/large/Autumn_002.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_002.jpg"
+	largeImageURL="images/large/Autumn_002.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_002]]></caption>
+  </image>
+  <image imageURL="images/Autumn_004.jpg"
+	thumbURL="thumbs/Autumn_004.jpg"
+	linkURL="images/large/Autumn_004.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_004.jpg"
+	largeImageURL="images/large/Autumn_004.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_004]]></caption>
+  </image>
+  <image imageURL="images/Autumn_022.jpg"
+	thumbURL="thumbs/Autumn_022.jpg"
+	linkURL="images/large/Autumn_022.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_022.jpg"
+	largeImageURL="images/large/Autumn_022.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_022]]></caption>
+  </image>
+  <image imageURL="images/Autumn_005.jpg"
+	thumbURL="thumbs/Autumn_005.jpg"
+	linkURL="images/large/Autumn_005.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_005.jpg"
+	largeImageURL="images/large/Autumn_005.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_005]]></caption>
+  </image>
+  <image imageURL="images/Autumn_006.jpg"
+	thumbURL="thumbs/Autumn_006.jpg"
+	linkURL="images/large/Autumn_006.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_006.jpg"
+	largeImageURL="images/large/Autumn_006.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_006]]></caption>
+  </image>
+  <image imageURL="images/Autumn_009.jpg"
+	thumbURL="thumbs/Autumn_009.jpg"
+	linkURL="images/large/Autumn_009.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_009.jpg"
+	largeImageURL="images/large/Autumn_009.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_009]]></caption>
+  </image>
+  <image imageURL="images/Autumn_010.jpg"
+	thumbURL="thumbs/Autumn_010.jpg"
+	linkURL="images/large/Autumn_010.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_010.jpg"
+	largeImageURL="images/large/Autumn_010.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_010]]></caption>
+  </image>
+  <image imageURL="images/Autumn_011.jpg"
+	thumbURL="thumbs/Autumn_011.jpg"
+	linkURL="images/large/Autumn_011.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_011.jpg"
+	largeImageURL="images/large/Autumn_011.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_011]]></caption>
+  </image>
+  <image imageURL="images/Autumn_007.jpg"
+	thumbURL="thumbs/Autumn_007.jpg"
+	linkURL="images/large/Autumn_007.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_007.jpg"
+	largeImageURL="images/large/Autumn_007.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_007]]></caption>
+  </image>
+  <image imageURL="images/Autumn_013.jpg"
+	thumbURL="thumbs/Autumn_013.jpg"
+	linkURL="images/large/Autumn_013.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_013.jpg"
+	largeImageURL="images/large/Autumn_013.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_013]]></caption>
+  </image>
+  <image imageURL="images/Autumn_019.jpg"
+	thumbURL="thumbs/Autumn_019.jpg"
+	linkURL="images/large/Autumn_019.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_019.jpg"
+	largeImageURL="images/large/Autumn_019.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_019]]></caption>
+  </image>
+  <image imageURL="images/Autumn_026.jpg"
+	thumbURL="thumbs/Autumn_026.jpg"
+	linkURL="images/large/Autumn_026.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_026.jpg"
+	largeImageURL="images/large/Autumn_026.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_026]]></caption>
+  </image>
+  <image imageURL="images/Autumn_014.jpg"
+	thumbURL="thumbs/Autumn_014.jpg"
+	linkURL="images/large/Autumn_014.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_014.jpg"
+	largeImageURL="images/large/Autumn_014.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_014]]></caption>
+  </image>
+  <image imageURL="images/Autumn_015.jpg"
+	thumbURL="thumbs/Autumn_015.jpg"
+	linkURL="images/large/Autumn_015.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_015.jpg"
+	largeImageURL="images/large/Autumn_015.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_015]]></caption>
+  </image>
+  <image imageURL="images/Autumn_023.jpg"
+	thumbURL="thumbs/Autumn_023.jpg"
+	linkURL="images/large/Autumn_023.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_023.jpg"
+	largeImageURL="images/large/Autumn_023.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_023]]></caption>
+  </image>
+  <image imageURL="images/Autumn_016.jpg"
+	thumbURL="thumbs/Autumn_016.jpg"
+	linkURL="images/large/Autumn_016.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_016.jpg"
+	largeImageURL="images/large/Autumn_016.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_016]]></caption>
+  </image>
+  <image imageURL="images/Autumn_017.jpg"
+	thumbURL="thumbs/Autumn_017.jpg"
+	linkURL="images/large/Autumn_017.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_017.jpg"
+	largeImageURL="images/large/Autumn_017.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_017]]></caption>
+  </image>
+  <image imageURL="images/Autumn_025.jpg"
+	thumbURL="thumbs/Autumn_025.jpg"
+	linkURL="images/large/Autumn_025.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_025.jpg"
+	largeImageURL="images/large/Autumn_025.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_025]]></caption>
+  </image>
+  <image imageURL="images/Autumn_021.jpg"
+	thumbURL="thumbs/Autumn_021.jpg"
+	linkURL="images/large/Autumn_021.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_021.jpg"
+	largeImageURL="images/large/Autumn_021.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_021]]></caption>
+  </image>
+  <image imageURL="images/Autumn_020.jpg"
+	thumbURL="thumbs/Autumn_020.jpg"
+	linkURL="images/large/Autumn_020.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_020.jpg"
+	largeImageURL="images/large/Autumn_020.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_020]]></caption>
+  </image>
+  <image imageURL="images/Autumn_018.jpg"
+	thumbURL="thumbs/Autumn_018.jpg"
+	linkURL="images/large/Autumn_018.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_018.jpg"
+	largeImageURL="images/large/Autumn_018.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_018]]></caption>
+  </image>
+  <image imageURL="images/Autumn_024.jpg"
+	thumbURL="thumbs/Autumn_024.jpg"
+	linkURL="images/large/Autumn_024.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\JPEG\Autumn_024.jpg"
+	largeImageURL="images/large/Autumn_024.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Autumn_024]]></caption>
+  </image>
+</juiceboxgallery>

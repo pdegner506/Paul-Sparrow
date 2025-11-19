@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="100"
+	thumbHeight="100"
+	useLargeImages="true"
+	captionPosition="NONE"
+	galleryTitle="- LAND &amp; WATER - "
+	galleryTitleHAlign="CENTER"
+	enableLooping="true"
+	captionHAlign="CENTER"
+	galleryTitlePosition="TOP"
+	importTitle="NONE"
+	emailAddress="psparrow@cogeco.ca"
+	showEmailButton="true"
+	importCaption="FILENAME"
+	useFullscreenExpand="true"
+	useWatermark="true"
+	watermarkPath="C:\Users\user\Documents\Documents\Burlington Photo Workshops\Elements_Photoshop\8 - Type\Paul Sparrow.png"
+	buttonBarPosition="TOP"
+
+>
+  <image imageURL="images/Landscapes_007.jpg"
+	thumbURL="thumbs/Landscapes_007.jpg"
+	linkURL="images/large/Landscapes_007.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_007.jpg"
+	largeImageURL="images/large/Landscapes_007.jpg">
+    <title><![CDATA[Landscapes_007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_003.jpg"
+	thumbURL="thumbs/Landscapes_003.jpg"
+	linkURL="images/large/Landscapes_003.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_003.jpg"
+	largeImageURL="images/large/Landscapes_003.jpg">
+    <title><![CDATA[Landscapes_003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_004.jpg"
+	thumbURL="thumbs/Landscapes_004.jpg"
+	linkURL="images/large/Landscapes_004.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_004.jpg"
+	largeImageURL="images/large/Landscapes_004.jpg">
+    <title><![CDATA[Landscapes_004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_008.jpg"
+	thumbURL="thumbs/Landscapes_008.jpg"
+	linkURL="images/large/Landscapes_008.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_008.jpg"
+	largeImageURL="images/large/Landscapes_008.jpg">
+    <title><![CDATA[Landscapes_008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_009.jpg"
+	thumbURL="thumbs/Landscapes_009.jpg"
+	linkURL="images/large/Landscapes_009.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_009.jpg"
+	largeImageURL="images/large/Landscapes_009.jpg">
+    <title><![CDATA[Landscapes_009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_012.jpg"
+	thumbURL="thumbs/Landscapes_012.jpg"
+	linkURL="images/large/Landscapes_012.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_012.jpg"
+	largeImageURL="images/large/Landscapes_012.jpg">
+    <title><![CDATA[Landscapes_012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/04-April.jpg"
+	thumbURL="thumbs/04-April.jpg"
+	linkURL="images/large/04-April.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\04-April.jpg"
+	largeImageURL="images/large/04-April.jpg">
+    <title><![CDATA[04-April]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11-November.jpg"
+	thumbURL="thumbs/11-November.jpg"
+	linkURL="images/large/11-November.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\11-November.jpg"
+	largeImageURL="images/large/11-November.jpg">
+    <title><![CDATA[11-November]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Water Fall 1b_AI Sharpened.jpg"
+	thumbURL="thumbs/Water Fall 1b_AI Sharpened.jpg"
+	linkURL="images/large/Water Fall 1b_AI Sharpened.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Water Fall 1b_AI Sharpened.jpg"
+	largeImageURL="images/large/Water Fall 1b_AI Sharpened.jpg">
+    <title><![CDATA[Water Fall 1b_AI Sharpened]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/COOTES1A.jpg"
+	thumbURL="thumbs/COOTES1A.jpg"
+	linkURL="images/large/COOTES1A.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\COOTES1A.jpg"
+	largeImageURL="images/large/COOTES1A.jpg">
+    <title><![CDATA[COOTES1A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_001.jpg"
+	thumbURL="thumbs/Landscapes_001.jpg"
+	linkURL="images/large/Landscapes_001.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_001.jpg"
+	largeImageURL="images/large/Landscapes_001.jpg">
+    <title><![CDATA[Landscapes_001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_002.jpg"
+	thumbURL="thumbs/Landscapes_002.jpg"
+	linkURL="images/large/Landscapes_002.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_002.jpg"
+	largeImageURL="images/large/Landscapes_002.jpg">
+    <title><![CDATA[Landscapes_002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Autumn Reflection.jpg"
+	thumbURL="thumbs/Autumn Reflection.jpg"
+	linkURL="images/large/Autumn Reflection.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Autumn Reflection.jpg"
+	largeImageURL="images/large/Autumn Reflection.jpg">
+    <title><![CDATA[Autumn Reflection]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Autumn - IMG_0132.jpg"
+	thumbURL="thumbs/Autumn - IMG_0132.jpg"
+	linkURL="images/large/Autumn - IMG_0132.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Autumn - IMG_0132.jpg"
+	largeImageURL="images/large/Autumn - IMG_0132.jpg">
+    <title><![CDATA[Autumn - IMG_0132]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_013.jpg"
+	thumbURL="thumbs/Landscapes_013.jpg"
+	linkURL="images/large/Landscapes_013.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_013.jpg"
+	largeImageURL="images/large/Landscapes_013.jpg">
+    <title><![CDATA[Landscapes_013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_029.jpg"
+	thumbURL="thumbs/Landscapes_029.jpg"
+	linkURL="images/large/Landscapes_029.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_029.jpg"
+	largeImageURL="images/large/Landscapes_029.jpg">
+    <title><![CDATA[Landscapes_029]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10-October.jpg"
+	thumbURL="thumbs/10-October.jpg"
+	linkURL="images/large/10-October.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\10-October.jpg"
+	largeImageURL="images/large/10-October.jpg">
+    <title><![CDATA[10-October]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_021.jpg"
+	thumbURL="thumbs/Landscapes_021.jpg"
+	linkURL="images/large/Landscapes_021.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_021.jpg"
+	largeImageURL="images/large/Landscapes_021.jpg">
+    <title><![CDATA[Landscapes_021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_030.jpg"
+	thumbURL="thumbs/Landscapes_030.jpg"
+	linkURL="images/large/Landscapes_030.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_030.jpg"
+	largeImageURL="images/large/Landscapes_030.jpg">
+    <title><![CDATA[Landscapes_030]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_025.jpg"
+	thumbURL="thumbs/Landscapes_025.jpg"
+	linkURL="images/large/Landscapes_025.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_025.jpg"
+	largeImageURL="images/large/Landscapes_025.jpg">
+    <title><![CDATA[Landscapes_025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Landscapes_015.jpg"
+	thumbURL="thumbs/Landscapes_015.jpg"
+	linkURL="images/large/Landscapes_015.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\Landscapes_015.jpg"
+	largeImageURL="images/large/Landscapes_015.jpg">
+    <title><![CDATA[Landscapes_015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8-August.jpg"
+	thumbURL="thumbs/8-August.jpg"
+	linkURL="images/large/8-August.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\8-August.jpg"
+	largeImageURL="images/large/8-August.jpg">
+    <title><![CDATA[8-August]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9-September.jpg"
+	thumbURL="thumbs/9-September.jpg"
+	linkURL="images/large/9-September.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Landscapes\9-September.jpg"
+	largeImageURL="images/large/9-September.jpg">
+    <title><![CDATA[9-September]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

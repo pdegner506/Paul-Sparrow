@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="100"
+	thumbHeight="100"
+	useLargeImages="true"
+	captionPosition="NONE"
+	galleryTitle="- PEOPLE &amp; ACTIVITIES - "
+	galleryTitleHAlign="CENTER"
+	enableLooping="true"
+	captionHAlign="CENTER"
+	galleryTitlePosition="TOP"
+	importTitle="NONE"
+	emailAddress="psparrow@cogeco.ca"
+	showEmailButton="true"
+	importCaption="FILENAME"
+	useFullscreenExpand="true"
+	useWatermark="true"
+	watermarkPath="C:\Users\user\Documents\Documents\Burlington Photo Workshops\Elements_Photoshop\8 - Type\Paul Sparrow.png"
+	buttonBarPosition="TOP"
+
+>
+  <image imageURL="images/Artist.jpg"
+	thumbURL="thumbs/Artist.jpg"
+	linkURL="images/large/Artist.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\Artist.jpg"
+	largeImageURL="images/large/Artist.jpg">
+    <title><![CDATA[Artist]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Couple 1.jpg"
+	thumbURL="thumbs/Couple 1.jpg"
+	linkURL="images/large/Couple 1.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\Couple 1.jpg"
+	largeImageURL="images/large/Couple 1.jpg">
+    <title><![CDATA[Couple 1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image 1b.jpg"
+	thumbURL="thumbs/Image 1b.jpg"
+	linkURL="images/large/Image 1b.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\Image 1b.jpg"
+	largeImageURL="images/large/Image 1b.jpg">
+    <title><![CDATA[Image 1b]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image 2.jpg"
+	thumbURL="thumbs/Image 2.jpg"
+	linkURL="images/large/Image 2.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\Image 2.jpg"
+	largeImageURL="images/large/Image 2.jpg">
+    <title><![CDATA[Image 2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image 3.jpg"
+	thumbURL="thumbs/Image 3.jpg"
+	linkURL="images/large/Image 3.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\Image 3.jpg"
+	largeImageURL="images/large/Image 3.jpg">
+    <title><![CDATA[Image 3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image 8.jpg"
+	thumbURL="thumbs/Image 8.jpg"
+	linkURL="images/large/Image 8.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\Image 8.jpg"
+	largeImageURL="images/large/Image 8.jpg">
+    <title><![CDATA[Image 8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image 9.jpg"
+	thumbURL="thumbs/Image 9.jpg"
+	linkURL="images/large/Image 9.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\Image 9.jpg"
+	largeImageURL="images/large/Image 9.jpg">
+    <title><![CDATA[Image 9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG0077.jpg"
+	thumbURL="thumbs/IMG0077.jpg"
+	linkURL="images/large/IMG0077.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\IMG0077.jpg"
+	largeImageURL="images/large/IMG0077.jpg">
+    <title><![CDATA[IMG0077]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Old People on Park Bench with Bus_sharpened.jpg"
+	thumbURL="thumbs/Old People on Park Bench with Bus_sharpened.jpg"
+	linkURL="images/large/Old People on Park Bench with Bus_sharpened.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\Old People on Park Bench with Bus_sharpened.jpg"
+	largeImageURL="images/large/Old People on Park Bench with Bus_sharpened.jpg">
+    <title><![CDATA[Old People on Park Bench with Bus_sharpened]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_001.jpg"
+	thumbURL="thumbs/People &amp; Activities_001.jpg"
+	linkURL="images/large/People &amp; Activities_001.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_001.jpg"
+	largeImageURL="images/large/People &amp; Activities_001.jpg">
+    <title><![CDATA[People & Activities_001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_005.jpg"
+	thumbURL="thumbs/People &amp; Activities_005.jpg"
+	linkURL="images/large/People &amp; Activities_005.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_005.jpg"
+	largeImageURL="images/large/People &amp; Activities_005.jpg">
+    <title><![CDATA[People & Activities_005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_006.jpg"
+	thumbURL="thumbs/People &amp; Activities_006.jpg"
+	linkURL="images/large/People &amp; Activities_006.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_006.jpg"
+	largeImageURL="images/large/People &amp; Activities_006.jpg">
+    <title><![CDATA[People & Activities_006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_008.jpg"
+	thumbURL="thumbs/People &amp; Activities_008.jpg"
+	linkURL="images/large/People &amp; Activities_008.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_008.jpg"
+	largeImageURL="images/large/People &amp; Activities_008.jpg">
+    <title><![CDATA[People & Activities_008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_009.jpg"
+	thumbURL="thumbs/People &amp; Activities_009.jpg"
+	linkURL="images/large/People &amp; Activities_009.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_009.jpg"
+	largeImageURL="images/large/People &amp; Activities_009.jpg">
+    <title><![CDATA[People & Activities_009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_010.jpg"
+	thumbURL="thumbs/People &amp; Activities_010.jpg"
+	linkURL="images/large/People &amp; Activities_010.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_010.jpg"
+	largeImageURL="images/large/People &amp; Activities_010.jpg">
+    <title><![CDATA[People & Activities_010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_011.jpg"
+	thumbURL="thumbs/People &amp; Activities_011.jpg"
+	linkURL="images/large/People &amp; Activities_011.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_011.jpg"
+	largeImageURL="images/large/People &amp; Activities_011.jpg">
+    <title><![CDATA[People & Activities_011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_012.jpg"
+	thumbURL="thumbs/People &amp; Activities_012.jpg"
+	linkURL="images/large/People &amp; Activities_012.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_012.jpg"
+	largeImageURL="images/large/People &amp; Activities_012.jpg">
+    <title><![CDATA[People & Activities_012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_013.jpg"
+	thumbURL="thumbs/People &amp; Activities_013.jpg"
+	linkURL="images/large/People &amp; Activities_013.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_013.jpg"
+	largeImageURL="images/large/People &amp; Activities_013.jpg">
+    <title><![CDATA[People & Activities_013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_014.jpg"
+	thumbURL="thumbs/People &amp; Activities_014.jpg"
+	linkURL="images/large/People &amp; Activities_014.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_014.jpg"
+	largeImageURL="images/large/People &amp; Activities_014.jpg">
+    <title><![CDATA[People & Activities_014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_016b.jpg"
+	thumbURL="thumbs/People &amp; Activities_016b.jpg"
+	linkURL="images/large/People &amp; Activities_016b.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_016b.jpg"
+	largeImageURL="images/large/People &amp; Activities_016b.jpg">
+    <title><![CDATA[People & Activities_016b]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_029.jpg"
+	thumbURL="thumbs/People &amp; Activities_029.jpg"
+	linkURL="images/large/People &amp; Activities_029.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_029.jpg"
+	largeImageURL="images/large/People &amp; Activities_029.jpg">
+    <title><![CDATA[People & Activities_029]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_038.jpg"
+	thumbURL="thumbs/People &amp; Activities_038.jpg"
+	linkURL="images/large/People &amp; Activities_038.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_038.jpg"
+	largeImageURL="images/large/People &amp; Activities_038.jpg">
+    <title><![CDATA[People & Activities_038]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_039.jpg"
+	thumbURL="thumbs/People &amp; Activities_039.jpg"
+	linkURL="images/large/People &amp; Activities_039.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\People &amp; Activities_039.jpg"
+	largeImageURL="images/large/People &amp; Activities_039.jpg">
+    <title><![CDATA[People & Activities_039]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Week 3_Apertures &amp; Shutter Speeds_119.jpg"
+	thumbURL="thumbs/Week 3_Apertures &amp; Shutter Speeds_119.jpg"
+	linkURL="images/large/Week 3_Apertures &amp; Shutter Speeds_119.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\Week 3_Apertures &amp; Shutter Speeds_119.jpg"
+	largeImageURL="images/large/Week 3_Apertures &amp; Shutter Speeds_119.jpg">
+    <title><![CDATA[Week 3_Apertures & Shutter Speeds_119]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Week 3_Apertures &amp; Shutter Speeds_120.jpg"
+	thumbURL="thumbs/Week 3_Apertures &amp; Shutter Speeds_120.jpg"
+	linkURL="images/large/Week 3_Apertures &amp; Shutter Speeds_120.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\Week 3_Apertures &amp; Shutter Speeds_120.jpg"
+	largeImageURL="images/large/Week 3_Apertures &amp; Shutter Speeds_120.jpg">
+    <title><![CDATA[Week 3_Apertures & Shutter Speeds_120]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Week 3_Apertures &amp; Shutter Speeds_121.jpg"
+	thumbURL="thumbs/Week 3_Apertures &amp; Shutter Speeds_121.jpg"
+	linkURL="images/large/Week 3_Apertures &amp; Shutter Speeds_121.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\Week 3_Apertures &amp; Shutter Speeds_121.jpg"
+	largeImageURL="images/large/Week 3_Apertures &amp; Shutter Speeds_121.jpg">
+    <title><![CDATA[Week 3_Apertures & Shutter Speeds_121]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Week 4_Lenses &amp; Composition_035.jpg"
+	thumbURL="thumbs/Week 4_Lenses &amp; Composition_035.jpg"
+	linkURL="images/large/Week 4_Lenses &amp; Composition_035.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\People\Week 4_Lenses &amp; Composition_035.jpg"
+	largeImageURL="images/large/Week 4_Lenses &amp; Composition_035.jpg">
+    <title><![CDATA[Week 4_Lenses & Composition_035]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="100"
+	thumbHeight="100"
+	useLargeImages="true"
+	captionPosition="NONE"
+	galleryTitle="- PANORAMAS - "
+	galleryTitleHAlign="CENTER"
+	enableLooping="true"
+	captionHAlign="CENTER"
+	galleryTitlePosition="TOP"
+	importTitle="NONE"
+	emailAddress="psparrow@cogeco.ca"
+	showEmailButton="true"
+	importCaption="FILENAME"
+	useFullscreenExpand="true"
+	useWatermark="true"
+	watermarkPath="C:\Users\user\Documents\Documents\Burlington Photo Workshops\Elements_Photoshop\8 - Type\Paul Sparrow.png"
+	buttonBarPosition="TOP"
+
+>
+  <image imageURL="images/CONTEMPLATING WHALES.jpg"
+	thumbURL="thumbs/CONTEMPLATING WHALES.jpg"
+	linkURL="images/large/CONTEMPLATING WHALES.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\CONTEMPLATING WHALES.jpg"
+	largeImageURL="images/large/CONTEMPLATING WHALES.jpg">
+    <title><![CDATA[CONTEMPLATING WHALES]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DUNDURN CASTLE_(AI Sharpened).jpg"
+	thumbURL="thumbs/DUNDURN CASTLE_(AI Sharpened).jpg"
+	linkURL="images/large/DUNDURN CASTLE_(AI Sharpened).jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\DUNDURN CASTLE_(AI Sharpened).jpg"
+	largeImageURL="images/large/DUNDURN CASTLE_(AI Sharpened).jpg">
+    <title><![CDATA[DUNDURN CASTLE_(AI Sharpened)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/FLORENCE ITALY_Sharpen AI.jpg"
+	thumbURL="thumbs/FLORENCE ITALY_Sharpen AI.jpg"
+	linkURL="images/large/FLORENCE ITALY_Sharpen AI.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\FLORENCE ITALY_Sharpen AI.jpg"
+	largeImageURL="images/large/FLORENCE ITALY_Sharpen AI.jpg">
+    <title><![CDATA[FLORENCE ITALY_Sharpen AI]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/GORE PARK.jpg"
+	thumbURL="thumbs/GORE PARK.jpg"
+	linkURL="images/large/GORE PARK.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\GORE PARK.jpg"
+	largeImageURL="images/large/GORE PARK.jpg">
+    <title><![CDATA[GORE PARK]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/GRAND CANYON 2.jpg"
+	thumbURL="thumbs/GRAND CANYON 2.jpg"
+	linkURL="images/large/GRAND CANYON 2.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\GRAND CANYON 2.jpg"
+	largeImageURL="images/large/GRAND CANYON 2.jpg">
+    <title><![CDATA[GRAND CANYON 2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HAMILTION HARBOUR.jpg"
+	thumbURL="thumbs/HAMILTION HARBOUR.jpg"
+	linkURL="images/large/HAMILTION HARBOUR.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\HAMILTION HARBOUR.jpg"
+	largeImageURL="images/large/HAMILTION HARBOUR.jpg">
+    <title><![CDATA[HAMILTION HARBOUR]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HAMILTON NIGHT.jpg"
+	thumbURL="thumbs/HAMILTON NIGHT.jpg"
+	linkURL="images/large/HAMILTON NIGHT.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\HAMILTON NIGHT.jpg"
+	largeImageURL="images/large/HAMILTON NIGHT.jpg">
+    <title><![CDATA[HAMILTON NIGHT]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hamilton Steel Industry.jpg"
+	thumbURL="thumbs/Hamilton Steel Industry.jpg"
+	linkURL="images/large/Hamilton Steel Industry.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\Hamilton Steel Industry.jpg"
+	largeImageURL="images/large/Hamilton Steel Industry.jpg">
+    <title><![CDATA[Hamilton Steel Industry]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HAMILTON SUNRISE.jpg"
+	thumbURL="thumbs/HAMILTON SUNRISE.jpg"
+	linkURL="images/large/HAMILTON SUNRISE.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\HAMILTON SUNRISE.jpg"
+	largeImageURL="images/large/HAMILTON SUNRISE.jpg">
+    <title><![CDATA[HAMILTON SUNRISE]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Meteor Crater-Arizona.jpg"
+	thumbURL="thumbs/Meteor Crater-Arizona.jpg"
+	linkURL="images/large/Meteor Crater-Arizona.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\Meteor Crater-Arizona.jpg"
+	largeImageURL="images/large/Meteor Crater-Arizona.jpg">
+    <title><![CDATA[Meteor Crater-Arizona]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MONTE-CARLO_Sharpened AI.jpg"
+	thumbURL="thumbs/MONTE-CARLO_Sharpened AI.jpg"
+	linkURL="images/large/MONTE-CARLO_Sharpened AI.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\MONTE-CARLO_Sharpened AI.jpg"
+	largeImageURL="images/large/MONTE-CARLO_Sharpened AI.jpg">
+    <title><![CDATA[MONTE-CARLO_Sharpened AI]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MT. NEMO PLATEAU 2.jpg"
+	thumbURL="thumbs/MT. NEMO PLATEAU 2.jpg"
+	linkURL="images/large/MT. NEMO PLATEAU 2.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\MT. NEMO PLATEAU 2.jpg"
+	largeImageURL="images/large/MT. NEMO PLATEAU 2.jpg">
+    <title><![CDATA[MT. NEMO PLATEAU 2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Peyto Lake-Banff National Park.jpg"
+	thumbURL="thumbs/Peyto Lake-Banff National Park.jpg"
+	linkURL="images/large/Peyto Lake-Banff National Park.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\Peyto Lake-Banff National Park.jpg"
+	largeImageURL="images/large/Peyto Lake-Banff National Park.jpg">
+    <title><![CDATA[Peyto Lake-Banff National Park]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Red Rocks-Las Vegas.jpg"
+	thumbURL="thumbs/Red Rocks-Las Vegas.jpg"
+	linkURL="images/large/Red Rocks-Las Vegas.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\Red Rocks-Las Vegas.jpg"
+	largeImageURL="images/large/Red Rocks-Las Vegas.jpg">
+    <title><![CDATA[Red Rocks-Las Vegas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Rockies-BC.jpg"
+	thumbURL="thumbs/Rockies-BC.jpg"
+	linkURL="images/large/Rockies-BC.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Panoramas\Rockies-BC.jpg"
+	largeImageURL="images/large/Rockies-BC.jpg">
+    <title><![CDATA[Rockies-BC]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

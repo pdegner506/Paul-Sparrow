@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="100"
+	thumbHeight="100"
+	useLargeImages="true"
+	captionPosition="NONE"
+	galleryTitle="- PRODUCT &amp; STILL LIFE - "
+	galleryTitleHAlign="CENTER"
+	enableLooping="true"
+	captionHAlign="CENTER"
+	galleryTitlePosition="TOP"
+	importTitle="NONE"
+	emailAddress="psparrow@cogeco.ca"
+	showEmailButton="true"
+	importCaption="FILENAME"
+	useFullscreenExpand="true"
+	useWatermark="true"
+	watermarkPath="C:\Users\user\Documents\Documents\Burlington Photo Workshops\Elements_Photoshop\8 - Type\Paul Sparrow.png"
+	buttonBarPosition="TOP"
+
+>
+  <image imageURL="images/Still Life &amp; Commercial_001.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_001.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_001.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_001.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_001.jpg">
+    <title><![CDATA[Still Life & Commercial_001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_001_1.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_001_1.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_001_1.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_001_1.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_001_1.jpg">
+    <title><![CDATA[Still Life & Commercial_001_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_001b.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_001b.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_001b.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_001b.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_001b.jpg">
+    <title><![CDATA[Still Life & Commercial_001b]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_002.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_002.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_002.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_002.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_002.jpg">
+    <title><![CDATA[Still Life & Commercial_002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_003.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_003.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_003.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_003.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_003.jpg">
+    <title><![CDATA[Still Life & Commercial_003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_003b.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_003b.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_003b.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_003b.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_003b.jpg">
+    <title><![CDATA[Still Life & Commercial_003b]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_004.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_004.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_004.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_004.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_004.jpg">
+    <title><![CDATA[Still Life & Commercial_004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_005.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_005.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_005.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_005.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_005.jpg">
+    <title><![CDATA[Still Life & Commercial_005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_006.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_006.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_006.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_006.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_006.jpg">
+    <title><![CDATA[Still Life & Commercial_006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/People &amp; Activities_041.jpg"
+	thumbURL="thumbs/People &amp; Activities_041.jpg"
+	linkURL="images/large/People &amp; Activities_041.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\People &amp; Activities_041.jpg"
+	largeImageURL="images/large/People &amp; Activities_041.jpg">
+    <title><![CDATA[People & Activities_041]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_007.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_007.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_007.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_007.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_007.jpg">
+    <title><![CDATA[Still Life & Commercial_007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_008.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_008.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_008.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_008.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_008.jpg">
+    <title><![CDATA[Still Life & Commercial_008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_009.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_009.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_009.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_009.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_009.jpg">
+    <title><![CDATA[Still Life & Commercial_009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_010.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_010.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_010.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_010.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_010.jpg">
+    <title><![CDATA[Still Life & Commercial_010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_013.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_013.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_013.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_013.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_013.jpg">
+    <title><![CDATA[Still Life & Commercial_013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_014.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_014.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_014.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_014.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_014.jpg">
+    <title><![CDATA[Still Life & Commercial_014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_015.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_015.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_015.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_015.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_015.jpg">
+    <title><![CDATA[Still Life & Commercial_015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_017.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_017.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_017.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_017.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_017.jpg">
+    <title><![CDATA[Still Life & Commercial_017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Still Life &amp; Commercial_018.jpg"
+	thumbURL="thumbs/Still Life &amp; Commercial_018.jpg"
+	linkURL="images/large/Still Life &amp; Commercial_018.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Still Life &amp; Commercial_018.jpg"
+	largeImageURL="images/large/Still Life &amp; Commercial_018.jpg">
+    <title><![CDATA[Still Life & Commercial_018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Week 3-Still Life_065.jpg"
+	thumbURL="thumbs/Week 3-Still Life_065.jpg"
+	linkURL="images/large/Week 3-Still Life_065.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Still Life\Week 3-Still Life_065.jpg"
+	largeImageURL="images/large/Week 3-Still Life_065.jpg">
+    <title><![CDATA[Week 3-Still Life_065]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

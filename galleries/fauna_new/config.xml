@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="100"
+	thumbHeight="100"
+	useLargeImages="true"
+	captionPosition="NONE"
+	galleryTitle="- BIRDS, ANIMALS &amp; INSECTS - "
+	galleryTitleHAlign="CENTER"
+	enableLooping="true"
+	captionHAlign="CENTER"
+	galleryTitlePosition="TOP"
+	importTitle="NONE"
+	emailAddress="psparrow@cogeco.ca"
+	showEmailButton="true"
+	importCaption="FILENAME"
+	useFullscreenExpand="true"
+	useWatermark="true"
+	watermarkPath="C:\Users\user\Documents\Documents\Burlington Photo Workshops\Elements_Photoshop\8 - Type\Paul Sparrow.png"
+	buttonBarPosition="TOP"
+
+>
+  <image imageURL="images/3-March.jpg"
+	thumbURL="thumbs/3-March.jpg"
+	linkURL="images/large/3-March.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\3-March.jpg"
+	largeImageURL="images/large/3-March.jpg">
+    <title><![CDATA[3-March]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4-April.jpg"
+	thumbURL="thumbs/4-April.jpg"
+	linkURL="images/large/4-April.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\4-April.jpg"
+	largeImageURL="images/large/4-April.jpg">
+    <title><![CDATA[4-April]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6-June.jpg"
+	thumbURL="thumbs/6-June.jpg"
+	linkURL="images/large/6-June.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\6-June.jpg"
+	largeImageURL="images/large/6-June.jpg">
+    <title><![CDATA[6-June]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5-May.jpg"
+	thumbURL="thumbs/5-May.jpg"
+	linkURL="images/large/5-May.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\5-May.jpg"
+	largeImageURL="images/large/5-May.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[5-May]]></caption>
+  </image>
+  <image imageURL="images/8-August.jpg"
+	thumbURL="thumbs/8-August.jpg"
+	linkURL="images/large/8-August.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\8-August.jpg"
+	largeImageURL="images/large/8-August.jpg">
+    <title><![CDATA[8-August]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9-September.jpg"
+	thumbURL="thumbs/9-September.jpg"
+	linkURL="images/large/9-September.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\9-September.jpg"
+	largeImageURL="images/large/9-September.jpg">
+    <title><![CDATA[9-September]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_001.jpg"
+	thumbURL="thumbs/Fauna_001.jpg"
+	linkURL="images/large/Fauna_001.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_001.jpg"
+	largeImageURL="images/large/Fauna_001.jpg">
+    <title><![CDATA[Fauna_001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_002.jpg"
+	thumbURL="thumbs/Fauna_002.jpg"
+	linkURL="images/large/Fauna_002.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_002.jpg"
+	largeImageURL="images/large/Fauna_002.jpg">
+    <title><![CDATA[Fauna_002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_003.jpg"
+	thumbURL="thumbs/Fauna_003.jpg"
+	linkURL="images/large/Fauna_003.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_003.jpg"
+	largeImageURL="images/large/Fauna_003.jpg">
+    <title><![CDATA[Fauna_003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/7-July.jpg"
+	thumbURL="thumbs/7-July.jpg"
+	linkURL="images/large/7-July.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\7-July.jpg"
+	largeImageURL="images/large/7-July.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[7-July]]></caption>
+  </image>
+  <image imageURL="images/Fauna_004.jpg"
+	thumbURL="thumbs/Fauna_004.jpg"
+	linkURL="images/large/Fauna_004.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_004.jpg"
+	largeImageURL="images/large/Fauna_004.jpg">
+    <title><![CDATA[Fauna_004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_005.jpg"
+	thumbURL="thumbs/Fauna_005.jpg"
+	linkURL="images/large/Fauna_005.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_005.jpg"
+	largeImageURL="images/large/Fauna_005.jpg">
+    <title><![CDATA[Fauna_005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_006.jpg"
+	thumbURL="thumbs/Fauna_006.jpg"
+	linkURL="images/large/Fauna_006.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_006.jpg"
+	largeImageURL="images/large/Fauna_006.jpg">
+    <title><![CDATA[Fauna_006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_007.jpg"
+	thumbURL="thumbs/Fauna_007.jpg"
+	linkURL="images/large/Fauna_007.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_007.jpg"
+	largeImageURL="images/large/Fauna_007.jpg">
+    <title><![CDATA[Fauna_007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_008.jpg"
+	thumbURL="thumbs/Fauna_008.jpg"
+	linkURL="images/large/Fauna_008.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_008.jpg"
+	largeImageURL="images/large/Fauna_008.jpg">
+    <title><![CDATA[Fauna_008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_009.jpg"
+	thumbURL="thumbs/Fauna_009.jpg"
+	linkURL="images/large/Fauna_009.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_009.jpg"
+	largeImageURL="images/large/Fauna_009.jpg">
+    <title><![CDATA[Fauna_009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_011.jpg"
+	thumbURL="thumbs/Fauna_011.jpg"
+	linkURL="images/large/Fauna_011.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_011.jpg"
+	largeImageURL="images/large/Fauna_011.jpg">
+    <title><![CDATA[Fauna_011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_012.jpg"
+	thumbURL="thumbs/Fauna_012.jpg"
+	linkURL="images/large/Fauna_012.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_012.jpg"
+	largeImageURL="images/large/Fauna_012.jpg">
+    <title><![CDATA[Fauna_012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_013.jpg"
+	thumbURL="thumbs/Fauna_013.jpg"
+	linkURL="images/large/Fauna_013.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_013.jpg"
+	largeImageURL="images/large/Fauna_013.jpg">
+    <title><![CDATA[Fauna_013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_014.jpg"
+	thumbURL="thumbs/Fauna_014.jpg"
+	linkURL="images/large/Fauna_014.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_014.jpg"
+	largeImageURL="images/large/Fauna_014.jpg">
+    <title><![CDATA[Fauna_014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_015.jpg"
+	thumbURL="thumbs/Fauna_015.jpg"
+	linkURL="images/large/Fauna_015.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_015.jpg"
+	largeImageURL="images/large/Fauna_015.jpg">
+    <title><![CDATA[Fauna_015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_016.jpg"
+	thumbURL="thumbs/Fauna_016.jpg"
+	linkURL="images/large/Fauna_016.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_016.jpg"
+	largeImageURL="images/large/Fauna_016.jpg">
+    <title><![CDATA[Fauna_016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_017.jpg"
+	thumbURL="thumbs/Fauna_017.jpg"
+	linkURL="images/large/Fauna_017.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_017.jpg"
+	largeImageURL="images/large/Fauna_017.jpg">
+    <title><![CDATA[Fauna_017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_018.jpg"
+	thumbURL="thumbs/Fauna_018.jpg"
+	linkURL="images/large/Fauna_018.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_018.jpg"
+	largeImageURL="images/large/Fauna_018.jpg">
+    <title><![CDATA[Fauna_018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_019.jpg"
+	thumbURL="thumbs/Fauna_019.jpg"
+	linkURL="images/large/Fauna_019.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_019.jpg"
+	largeImageURL="images/large/Fauna_019.jpg">
+    <title><![CDATA[Fauna_019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_020.jpg"
+	thumbURL="thumbs/Fauna_020.jpg"
+	linkURL="images/large/Fauna_020.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_020.jpg"
+	largeImageURL="images/large/Fauna_020.jpg">
+    <title><![CDATA[Fauna_020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_021.jpg"
+	thumbURL="thumbs/Fauna_021.jpg"
+	linkURL="images/large/Fauna_021.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_021.jpg"
+	largeImageURL="images/large/Fauna_021.jpg">
+    <title><![CDATA[Fauna_021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_022.jpg"
+	thumbURL="thumbs/Fauna_022.jpg"
+	linkURL="images/large/Fauna_022.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_022.jpg"
+	largeImageURL="images/large/Fauna_022.jpg">
+    <title><![CDATA[Fauna_022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_023.jpg"
+	thumbURL="thumbs/Fauna_023.jpg"
+	linkURL="images/large/Fauna_023.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_023.jpg"
+	largeImageURL="images/large/Fauna_023.jpg">
+    <title><![CDATA[Fauna_023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_024.jpg"
+	thumbURL="thumbs/Fauna_024.jpg"
+	linkURL="images/large/Fauna_024.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_024.jpg"
+	largeImageURL="images/large/Fauna_024.jpg">
+    <title><![CDATA[Fauna_024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fauna_025.jpg"
+	thumbURL="thumbs/Fauna_025.jpg"
+	linkURL="images/large/Fauna_025.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Photos\Portfolio Images\X_Gallery Images\Resized\Fauna\Fauna_025.jpg"
+	largeImageURL="images/large/Fauna_025.jpg">
+    <title><![CDATA[Fauna_025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
